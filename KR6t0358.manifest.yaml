@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6t0358/v1
+canonical_location: https://kanripo.org/bkk/KR6t0358/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
+assets:
+  parts:
+  - {seq: 1, filename: KR6t0358_001.yaml, hash: 'sha256:cc3f355b8034063ccbc9b3b05e7785c2011d1e70604dfddb0adf99278d9d4921'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6t0358_001.markers.yaml, hash: 'sha256:a33122854a5bae7bd93ccaa76e498b439d80310e33f4c977fb5f6382fbd7dfbb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1957
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6t0358_T_001-0664b26.h.1
+    span:
+    - body
+    - 0
+    - 1957
+  label: 正像末法和讃
+  type: section
+  level: 2
+metadata:
+  title: 正像末法和讃
+  identifiers:
+    krp: KR6t0358
+    canon: T
+    vol: '83'
+    'no': '2652'
+  tags:
+    kr-categories: KR6t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0358.xml
+  edition:
+    short: bkk
+hash: sha256:0482f75e2105edd55366b9877cf8f4b2c39343118b1e66b997fb9657f0e8d273
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
+editions:
+- short: T

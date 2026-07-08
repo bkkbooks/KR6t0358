@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR6t0358/T/v1
+canonical_location: https://kanripo.org/bkk/KR6t0358/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR6t0358_001-T.yaml, hash: 'sha256:a249f774d5a7f4290fb5818e6e616c37372f6a6448b2e2a956c57402c69e5b96'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6t0358_001-T.markers.yaml, hash: 'sha256:4ad027fe96ac3275f9c7315e77ec1275015f510ffb9142bc280f3e56fd15a4e9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1957
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6t0358_T_001-0664b26.h.1
+    span:
+    - body
+    - 0
+    - 1957
+  label: 正像末法和讃
+  type: section
+  level: 2
+metadata:
+  title: 正像末法和讃
+  identifiers:
+    krp: KR6t0358
+    canon: T
+    vol: '83'
+    'no': '2652'
+  tags:
+    kr-categories: KR6t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0358.xml
+  edition:
+    short: T
+hash: sha256:92af0a7c4f4bf3a99c2960e415bbda618e71963e962a0a5917eefb7983a91dc6
